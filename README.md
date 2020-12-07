@@ -86,7 +86,8 @@ More information about each application and dataset is included in the readme.md
 
 - **Multi-MNIST-Sudoku (4x4)**: ./Games/MNIST_Sudoku_4x4/
 - **Multi-MNIST-Sudoku (9x9)**: ./Games/MNIST_Sudoku_9x9/
-- **Multi-MNIST-Sudoku-Jupyter-Notebook-Demo**: ./Games/Multi-MNIST-Sudoku-jupyter-note-book.zip
+- **Multi-MNIST-Sudoku-Jupyter-Notebook-Demo**: ./Games/Multi-MNIST-Sudoku-jupyter-note-book.zip 
+  (This demo takes around 30 minutes to converge with a normal GPU.)
 
 
 
