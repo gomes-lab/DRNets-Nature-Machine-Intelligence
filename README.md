@@ -38,7 +38,28 @@ For comparison with a recent simulation-based algorithm, we also analysed a powd
 
 These directories contain the relevant code and data, except the eBird data for joint species distribution modeling, which is provided separately due to large file sizes.
 
-## Requirements
+# Requirements
+
+## Hardware Requirements
+
+The code is mainly in Python using PyTorch or TensorFlow which is recommended to be run on a computer with GPUs (Otherwise, it takes too long to run it). 
+For optimal performance, we recommend a computer with the following specs:
+
+RAM: 32+ GB  
+CPU: 8+ cores, 3.0+ GHz/core
+GPU: NVIDIA Tesla V100 GPU with 16GB memory
+
+The runtimes in the paper are generated using a computer with the recommended specs.
+
+## Software Requirements
+
+### OS Requirements
+
+The code is tested on *Linux* operating systems. The developmental version of the package has been tested on the following systems:
+
+Linux: Ubuntu 16.04   
+
+### Dependency Requirements
 
 The code is mainly in Python using PyTorch or TensorFlow. Dependencies that satisfy all applications include:
 
