@@ -4,7 +4,9 @@ DRNets provide a general framework for integrating pattern recognition capabilit
 
 ## License 
 
-Copyright 2020 Institute for Computational Sustainability. All Rights Reserved.
+Copyright 2020 Institute for Computational Sustainability. All Rights Reserved. Do not distribute.
+(Code will be released under the MIT license upon publication.)
+
 
 ## Main contributors
 
