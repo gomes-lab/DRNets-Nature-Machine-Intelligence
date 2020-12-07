@@ -75,7 +75,7 @@ The runtimes in the paper are generated using a computer with the recommended sp
 
 The code is tested on *Linux* operating systems. The developmental version of the package has been tested on the following systems:
 
-Linux: Ubuntu 16.04   
+Linux: Centos 7.8
 
 ### Dependency Requirements
 
