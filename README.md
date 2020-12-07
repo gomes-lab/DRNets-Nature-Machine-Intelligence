@@ -70,6 +70,8 @@ The code is mainly in Python using PyTorch or TensorFlow. Dependencies that sati
 - Scikit-image
 - Scikit-learn 0.19.2
 
+(It takes less than 30 minutes to install these packages.)
+
 Helper scripts also assume a Bourne or Bash shell, however they are short and can easily be converted to other platforms or entered manually.
 
 ## Usage
