@@ -38,7 +38,7 @@ For comparison with a recent simulation-based algorithm, we also analysed a powd
 
 These directories contain the relevant code and data, except the eBird data for joint species distribution modeling, which is provided separately due to large file sizes.
 
-# Requirements
+
 
 ## Hardware Requirements
 
