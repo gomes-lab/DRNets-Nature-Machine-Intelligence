@@ -21,7 +21,7 @@ This code and data were primarily prepared by:
 
 This work accompanies the following publication:
 
-- Di Chen, Yiwei Bai, Sebastian Ament, Wenting Zhao, Dan Guevarra, Lan Zhou, Bart Selman, R. Bruce van Dover, John M. Gregoire, Carla P. Gomes. Automating Crystal-Structure Phase Mapping by Combining Deep Learning with Constraint Reasoning *Nature Machine Intelligence*, under review (2021).
+- Di Chen, Yiwei Bai, Sebastian Ament, Wenting Zhao, Dan Guevarra, Lan Zhou, Bart Selman, R. Bruce van Dover, John M. Gregoire, Carla P. Gomes. Automating Crystal-Structure Phase Mapping by Combining Deep Learning with Constraint Reasoning *Nature Machine Intelligence*, in review (2021).
 
 ## Directory structure
 
