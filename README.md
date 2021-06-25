@@ -2,12 +2,6 @@
 
 DRNets provide a general framework for integrating pattern recognition capabilities with reasoning about prior knowledge. The result is an end-to-end framework that can solve a broad range of mixed reasoning and learning problems. At a high level, DRNets combine deep learning with constraint reasoning by formulating a task as a data-driven constrained optimization problem, which is then reduced through a sequence of transformations into a data-driven unconstrained optimization problem amenable to end-to-end optimization via state-of-the-art deep learning technology.
 
-## License 
-
-Copyright 2020 Institute for Computational Sustainability. All Rights Reserved. Do not distribute.
-(Code will be released under the MIT license upon publication.)
-
-
 ## Main contributors
 
 This code and data were primarily prepared by:
